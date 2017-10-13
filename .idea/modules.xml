@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ERMANOZ.iml" filepath="$PROJECT_DIR$/ERMANOZ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OZ.iml" filepath="$PROJECT_DIR$/.idea/modules/OZ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OZ_main.iml" filepath="$PROJECT_DIR$/.idea/modules/OZ_main.iml" group="OZ" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OZ_test.iml" filepath="$PROJECT_DIR$/.idea/modules/OZ_test.iml" group="OZ" />
+    </modules>
+  </component>
+</project>
